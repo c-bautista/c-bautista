@@ -1,7 +1,7 @@
 #### About me
 
 <p align="justify">
-I am a last year Physics Ph.D. candidate who is currently in transition from Academia to Industry. My research focused on Elementary Particle Physics phenomenology. As part of it I developed skills on Statistics and Clusterization techniques. In parallel, I have been exploring the theoretical and practical aspects of Machine Learning.</p>
+I am a last year Physics Ph.D. candidate who is currently in transition from Academia to Industry. I have a high interest in the theoretical and practical developments on Machine Learning and Artificial Intelligence.</p>
 
 - 🔭 I’m currently working on: Data Science and AI projects
 - 📚 I’m currently learning: Time Series Analysis
