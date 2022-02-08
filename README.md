@@ -16,10 +16,10 @@ I am a last year Physics Ph.D. candidate who is currently in transition from Aca
 - Report from Working Group 2 : Higgs Physics at the HL-LHC and HE-LHC: <a href=https://arxiv.org/abs/1902.00134>arXiv</a> / <a href="https://cds.cern.ch/record/2650162?ln=en">Cern Series</a>
 
 #### Technical Skills:
-- Physics Research: Elementary Particle Physics, Model Building, Quantum Field Theory
+- Physics Research: Elementary Particle Physics, Model Building, Quantum Field Theory, Effective Field Theory
 - Mathematics: Linear Algebra, Multivariate Calculus, Statistics
-- Machine Learning: Data Extraction, Data Preprocessing, Visualization, Analysis and Modeling 
-- Programming: Python, C++, Mathematica, Octave, Matlab
+- Machine Learning: Data Extraction, Data Preprocessing, Visualization, Natural Language Processing, Supervised and Unsupervised Learning 
+- Programming: Python, SQL, C++, Mathematica, Octave, Matlab
 - Jupyter Notebooks, Visual Studio Code, Excel, LaTeX
 
 #### Soft Skills:
@@ -33,4 +33,4 @@ I am a last year Physics Ph.D. candidate who is currently in transition from Aca
 - English (fluent)
 - Spanish (fluent)
 - Portuguese (fluent)
-- french (basic)
+- French (basic)
