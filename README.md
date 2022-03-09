@@ -4,7 +4,7 @@
 I am a last year Physics Ph.D. candidate who is currently in transition from Academia to Industry. I have a high interest in the theoretical and practical developments on Machine Learning and Artificial Intelligence.</p>
 
 - 🔭 I’m currently working on: Data Science and AI projects
-- 📚 I’m currently learning: Time Series Analysis
+- 📚 I’m currently learning: Causal inference
 - 🤝 I’m looking to collaborate on: projects related to AI, Data Science and Physics
 - 📡 How to reach me: connect with me at <a href="https://www.linkedin.com/in/carlos-bautista-ch/">LinkedIn</a>
 
