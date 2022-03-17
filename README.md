@@ -15,7 +15,7 @@ I am a last year Physics Ph.D. candidate who is currently in transition from Aca
 - Credit risk modeling <a href="https://github.com/c-bautista/credit-risk-modeling">GitHub</a> | <a href="https://loan-acceptance-predictor.herokuapp.com/">Heroku</a>
 
 > #### Others:
-- Agent based model <a href="https://arxiv.org/abs/2008.13026">GitHub</a> | <a href="https://credit-network.herokuapp.com/">Heroku</a>
+- Agent based model <a href="https://github.com/c-bautista/agent-based-model">GitHub</a> | <a href="https://credit-network.herokuapp.com/">Heroku</a>
 
 #### Physics research publications:
 - Probing the Top-Higgs Sector with Composite Higgs Models at Present and Future Hadron Colliders: <a href="https://arxiv.org/abs/2008.13026">arXiv</a> | <a href="https://inspirehep.net/literature/1814020">Journal of High Energy Physics</a>
